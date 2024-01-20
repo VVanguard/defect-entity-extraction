@@ -106,10 +106,7 @@ class Definition:
 
 nlp = spacy.load("sources/output/model-best")
 
-text = "pc: in product catalog/specifications/service-resource specification, adding a new new resorce specification is giving error."
-#text = "pc - post a second version of a launched category has validity period check issues"
-#text = "pc - related specification page 400 error issue"
-#text = "pc: specification lifecycle status update issue"
+text = "Defect summary containing the entities to extract"
 
 doc = nlp(text)
 
