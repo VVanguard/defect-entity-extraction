@@ -1,0 +1,5 @@
+#
+# .txt File of defects associated with each microservice.
+#
+
+*** Sensitive data are removed *** 
